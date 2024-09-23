@@ -1,6 +1,6 @@
 # Weather App 🌦️ - Your Personalized Weather Companion
 
-![Image 3](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image3.jpg)
+![Image](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image.jpg)
 
 Welcome to **Weather App**, a sleek and simple weather forecasting tool that gives you up-to-date weather information tailored to your location. 🌍  
 Designed with user experience in mind, it delivers accurate forecasts in a visually appealing way.
@@ -18,17 +18,17 @@ Designed with user experience in mind, it delivers accurate forecasts in a visua
 ## Features 🚀 <a name="features"></a>
 
 ### 1. Real-Time Weather Updates ⏱️
-![Feature 1 - Real Time Updates](https://via.placeholder.com/600x400.png) <!-- Replace with a screenshot/gif of your app -->
+![Image 2](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image2.jpg)
 
 Stay updated with **real-time weather data** for your location or any city in the world. Just enter your city and instantly receive temperature, humidity, wind speed, and more.
 
 ### 2. Responsive UI 🌐
-![Feature 2 - Responsive UI](https://via.placeholder.com/600x400.png) <!-- Replace with a screenshot/gif of your app's responsiveness -->
+![Image 1](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image1.jpg)
 
 Enjoy a **beautiful, mobile-friendly design** that works seamlessly across devices—whether on desktop, tablet, or mobile.
 
 ### 3. 7-Day Weather Forecast 📅
-![Feature 3 - 7-Day Forecast](https://via.placeholder.com/600x400.png) <!-- Replace with a screenshot/gif of 7-day forecast -->
+![Image 3](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image3.jpg)
 
 Get the **7-day weather forecast** to help plan your week. Know in advance if it's going to rain or shine for the upcoming days, all at a glance!
 
