@@ -25,12 +25,12 @@ Stay updated with **real-time weather data** for your location or any city in th
 ### 2. Responsive UI 🌐
 ![Image 1](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image1.jpg)
 
-Enjoy a **beautiful, friendly design** that works seamlessly across devices—whether on desktop or tablet.
+Enjoy a **beautiful, mobile-friendly design** that works seamlessly across devices—whether on desktop, tablet, or mobile.
 
-### 5-Day Weather Forecast 📅
+### 3. 7-Day Weather Forecast 📅
 ![Image 3](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image3.jpg)
 
-Get the **5-day weather forecast** to help plan your week. Know in advance if it's going to rain or shine for the upcoming days, all at a glance!
+Get the **7-day weather forecast** to help plan your week. Know in advance if it's going to rain or shine for the upcoming days, all at a glance!
 
 ---
 
@@ -41,7 +41,7 @@ The **Weather App** was inspired by my need for a simple and efficient tool that
 ### Inspiration and Process
 This project is part of my **Portfolio Project** for Holberton School, where I had the opportunity to bring my skills in front-end and back-end development together. The timeline for this project was **3 weeks**, during which I planned, designed, and coded this entire application by myself.  
 
-The project helped me strengthen my knowledge in **APIs**, **Python**, and **CSS styling** while also focusing on **user experience** and **responsive design**.
+The project helped me strengthen my knowledge in **APIs**, **JavaScript**, and **CSS styling** while also focusing on **user experience** and **responsive design**.
 
 If you'd like to see more details, check out my profiles below:
 
