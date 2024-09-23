@@ -1,6 +1,7 @@
 # Weather App 🌦️ - Your Personalized Weather Companion
 
-![Weather App Cover](https://via.placeholder.com/1500x500.png) <!-- Replace with your large cover image -->
+[![Microburst Thunderstorm](https://images.unsplash.com/photo-1531436665658-2032a6e1eab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYzOTl8MHwxfGFsbHwxfHx8fHx8fHwxNjc0NTcxMjQ5fA&ixlib=rb-4.0.3&q=80&w=1080)](https://unsplash.com/photos/microburst-thunderstorm-Led9c1SSNFo)
+ <!-- Replace with your large cover image -->
 
 Welcome to **Weather App**, a sleek and simple weather forecasting tool that gives you up-to-date weather information tailored to your location. 🌍  
 Designed with user experience in mind, it delivers accurate forecasts in a visually appealing way.
