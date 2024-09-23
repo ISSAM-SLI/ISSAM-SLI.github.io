@@ -1,6 +1,6 @@
 # Weather App 🌦️ - Your Personalized Weather Companion
 
-![Weather App Cover](https://via.placeholder.com/1500x500.png) <!-- Replace with your large cover image -->
+![Image 3](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image3.jpg)
 
 Welcome to **Weather App**, a sleek and simple weather forecasting tool that gives you up-to-date weather information tailored to your location. 🌍  
 Designed with user experience in mind, it delivers accurate forecasts in a visually appealing way.
