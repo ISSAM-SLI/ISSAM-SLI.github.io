@@ -18,7 +18,7 @@ Designed with user experience in mind, it delivers accurate forecasts in a visua
 ## Features 🚀 <a name="features"></a>
 
 ### 1. Real-Time Weather Updates ⏱️
-![Image 2](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image 2.jpg)
+![Image 2](https://raw.githubusercontent.com/ISSAM-SLI/ISSAM-SLI.github.io/main/image%202.png)
 
 Stay updated with **real-time weather data** for your location or any city in the world. Just enter your city and instantly receive temperature, humidity, wind speed, and more.
 
